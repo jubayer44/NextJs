@@ -1,0 +1,64 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Nike Air Force 1",
+      "description": "Classic low-top basketball shoes with Nike Air cushioning.",
+      "price": 89.99
+    },
+    {
+      "id": 2,
+      "name": "Adidas Stan Smith",
+      "description": "Iconic tennis shoes with a clean and minimalist design.",
+      "price": 79.99
+    },
+    {
+      "id": 3,
+      "name": "Converse Chuck Taylor All Star",
+      "description": "Timeless canvas sneakers with a rubber sole and toe cap.",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "name": "Vans Old Skool",
+      "description": "Skateboarding shoes with a low-top silhouette and signature side stripe.",
+      "price": 59.99
+    },
+    {
+      "id": 5,
+      "name": "New Balance 574",
+      "description": "Classic running shoes with a retro-inspired design.",
+      "price": 69.99
+    },
+    {
+      "id": 6,
+      "name": "Puma Suede Classic",
+      "description": "Iconic sneakers with a suede upper and Puma Formstrip.",
+      "price": 64.99
+    },
+    {
+      "id": 7,
+      "name": "Reebok Classic Leather",
+      "description": "Timeless leather sneakers with a soft cushioned feel.",
+      "price": 74.99
+    },
+    {
+      "id": 8,
+      "name": "Asics Gel-Kayano",
+      "description": "High-performance running shoes with advanced cushioning technology.",
+      "price": 129.99
+    },
+    {
+      "id": 9,
+      "name": "Saucony Jazz Original",
+      "description": "Vintage-style running shoes with a suede and nylon upper.",
+      "price": 59.99
+    },
+    {
+      "id": 10,
+      "name": "Brooks Ghost",
+      "description": "Neutral running shoes with a lightweight and breathable design.",
+      "price": 119.99
+    }
+  ]
+}

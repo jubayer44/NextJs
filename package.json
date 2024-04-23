@@ -1,0 +1,35 @@
+{
+<<<<<<< HEAD
+  "name": "nextjs-core-concepts",
+=======
+  "name": "my-next-app",
+>>>>>>> 8f66f2bbe97bcd190f2d707eb70fc7773ecc459e
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+<<<<<<< HEAD
+    "json-server": "json-server --watch db.json --port 5000",
+=======
+>>>>>>> 8f66f2bbe97bcd190f2d707eb70fc7773ecc459e
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "json-server": "^1.0.0-alpha.23",
+=======
+>>>>>>> 8f66f2bbe97bcd190f2d707eb70fc7773ecc459e
+    "next": "14.2.2",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "daisyui": "^4.10.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
